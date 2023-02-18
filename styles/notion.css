@@ -395,6 +395,16 @@
 .notion-page {
   padding-bottom: 0 !important;
 }
+
+.notion-asset-wrapper {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
 .notion-asset-wrapper iframe {
   background: none;
+  width: 625px;
+  height: 1200px;
+  position: relative;
+  align-self: center;
 }
