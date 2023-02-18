@@ -392,3 +392,9 @@
 .notion-page-no-cover {
   padding-top: 0;
 }
+.notion-page {
+  padding-bottom: 0 !important;
+}
+.notion-asset-wrapper iframe {
+  background: none;
+}
