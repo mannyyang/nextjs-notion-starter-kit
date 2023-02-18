@@ -352,11 +352,6 @@
   border-radius: 50%;
 }
 
-/* Hide the main icon image */
-.notion-page-icon-hero {
-  display: none;
-}
-
 .notion-header {
   background: hsla(0, 0%, 100%, 0.8);
   backdrop-filter: saturate(180%) blur(16px);
@@ -386,4 +381,14 @@
 
 .notion-block-260baa77f1e1428b97fb14ac99c7c385 {
   display: none;
+}
+
+/* OVERRIDES */
+
+/* Hide the main icon image */
+.notion-page-icon-hero {
+  display: none;
+}
+.notion-page-no-cover {
+  padding-top: 0;
 }
