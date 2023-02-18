@@ -403,8 +403,8 @@
 
 .notion-asset-wrapper iframe {
   background: none;
-  width: 625px;
-  height: 1200px;
+  /* width: 500px;
+  height: 1200px; */
   position: relative;
   align-self: center;
 }
