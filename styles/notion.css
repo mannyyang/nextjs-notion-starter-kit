@@ -401,10 +401,13 @@
   margin-bottom: 0;
 }
 
+.notion-asset-wrapper > div {
+  height: 100% !important;
+}
+
 .notion-asset-wrapper iframe {
   background: none;
-  /* width: 500px;
-  height: 1200px; */
+  height: 1200px;
   position: relative;
   align-self: center;
 }
